@@ -278,6 +278,7 @@ lsof -ti:3000 | xargs kill -9
 - [ ] URL expiration dates
 - [ ] Link editing and deletion
 - [ ] Email notifications
+Read more about my projects on https://neemii.dev/projects/
 
 ## License
 
